@@ -1,0 +1,25 @@
+{
+  "name": "Convenience Network",
+  "logoURI": "https://i.postimg.cc/Qt4VtgVg/logo-for-wellet.jpg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xD7e26244375607674F5CB6632917FB89168a73a6",
+      "name": "Convenience Network",
+      "symbol": "CON",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/Qt4VtgVg/logo-for-wellet.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
